@@ -1,4 +1,4 @@
-# PRODIGY_MAY25_TaskNumber_3
+# PRODIGY_PIT/MAY25/10962_TaskNumber_3
 🐶🐱 Cats vs Dogs Image Classification using Linear SVM
 In this project, I built an optimized Linear SVM classifier to distinguish between cat and dog images using the Kaggle Dogs vs. Cats dataset (25,000 images). I preprocessed grayscale images, resized them for efficiency, and extracted pixel features. To handle large-scale training quickly (under 20 minutes), I used LinearSVC and SGDClassifier with calibration to compute both accuracy and log loss. The model achieved high performance and was visualized using bar charts for intuitive comparison.
 
