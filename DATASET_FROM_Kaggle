@@ -1,0 +1,5 @@
+Download and extract the dataset from Kaggle. Place the PetImages folder as follows:
+cats-vs-dogs-linear-svm/
+└── PetImages/
+    ├── Cat/
+    └── Dog/
